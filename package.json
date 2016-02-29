@@ -1,0 +1,11 @@
+{
+  "name": "XiaoTim2",
+  "version": "0.0.0",
+  "description": "Seed for XiaoTim",
+  "repository": {
+    "url": "https://github.com/baodongliu/xiaotim2"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
