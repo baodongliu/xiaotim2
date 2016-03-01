@@ -11261,7 +11261,7 @@ $__System.registerDynamic("80", ["10", "7f"], true, function($__require, exports
     NavbarComponent = __decorate([core_1.Component({
       selector: 'sd-navbar',
       moduleId: module.id,
-      template: "<nav>   <a [routerLink]=\"['Home']\">HOME</a>   <a [routerLink]=\"['About']\">ABOUT</a>   <a [routerLink]=\"['TpCalc']\">CALC</a> </nav>",
+      template: "<nav>   <a [routerLink]=\"['Home']\">\u4E3B\u9875</a>   <a [routerLink]=\"['TpCalc']\">\u4EF7\u683C\u8BA1\u7B97</a>   <a [routerLink]=\"['About']\">\u5173\u4E8E</a> </nav>",
       styles: [":host {   border-color: #E1E1E1;   border-style: solid;   border-width: 0 0 1px;   display: block;   height: 48px;   padding: 0 16px; }  nav a {   color: #8F8F8F;   font-size: 14px;   font-weight: 500;   line-height: 48px;   margin-right: 20px;   text-decoration: none;   vertical-align: middle; }  nav a.router-link-active {   color: #106CC8; }"],
       directives: [router_1.ROUTER_DIRECTIVES]
     }), __metadata('design:paramtypes', [])], NavbarComponent);
