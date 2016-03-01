@@ -15102,7 +15102,7 @@ $__System.registerDynamic("af", ["10"], true, function($__require, exports, modu
     AboutComponent = __decorate([core_1.Component({
       selector: 'sd-about',
       moduleId: module.id,
-      template: "<p>   For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. <p>  <h2>Faith, Love and Joy</h2> <ul>   <li>Hebrews 11:1 -- Now faith is confidence in what we hope for and assurance about what we do not see.</li>   <li>1 Corinthians 13:4 -- Love is patient, love is kind. It does not envy, it does not boast, it is not proud. </li>   <li>Psalm 47:1 -- Clap your hands, all you nations; shout to God with cries of joy.</li> </ul>",
+      template: "<p>   For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. <p>  <h2>Love and Joy</h2> <ul>   <li>1 Corinthians 13:4 -- Love is patient, love is kind. It does not envy, it does not boast, it is not proud. </li>   <li>Psalm 47:1 -- Clap your hands, all you nations; shout to God with cries of joy.</li> </ul>",
       styles: [":host {   display: block;   padding: 0 16px; }  h2 {   font-size: 20px;   font-weight: 500;   letter-spacing: 0.005em;   margin-bottom: 0;   margin-top: 0.83em; }"]
     }), __metadata('design:paramtypes', [])], AboutComponent);
     return AboutComponent;
